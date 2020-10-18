@@ -81,3 +81,4 @@ export const readMsgAsync = (_id) => {
     }
 }
 
+getMsgList()

@@ -15,6 +15,7 @@ import Personal from "./personal"
 import NavFooter from "../../components/nav-footer"
 import NotFound from "./not-found"
 import Chat from "../chat"
+
 class Main extends Component {
     // 组件类和组件对象
 // 给组件对象添加属性

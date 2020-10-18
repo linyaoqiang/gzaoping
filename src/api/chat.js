@@ -1,5 +1,6 @@
 import request from "../utils/request"
 
+
 export const reqMessageList = () => {
     return request({
         url: '/chat/list',
